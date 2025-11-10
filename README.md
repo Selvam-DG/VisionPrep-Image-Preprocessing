@@ -206,7 +206,7 @@ MIT License © 2025 [Your Name]
 ## Citation
 
 > [Selvam-DG], *"VisionPrep – Intelligent Image Preprocessing for Photogrammetry"*, 2025.
-> GitHub Repository: [github.com/Selvam-DG/VisionPrep-Web](https://github.com/Selvam-DG/VisionPrep-Web)
+> GitHub Repository: [github.com/Selvam-DG/VisionPrep-Image-Preprocessing](https://github.com/Selvam-DG/VisionPrep-Image-Preprocessing)
 
 ---
 
