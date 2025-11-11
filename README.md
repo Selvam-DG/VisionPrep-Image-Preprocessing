@@ -93,7 +93,7 @@ H --> I[ Enhanced Output + CSV Summary]
 ### 1 Clone the Repository
 
 ```bash
-git clone https://github.com/<yourusername>/VisionPrep-Web.git
+git clone https://github.com/Selvam-DG/photogrammetry-image-preprocessing.git
 cd VisionPrep-Web
 ```
 
@@ -206,7 +206,7 @@ MIT License © 2025 [Your Name]
 ## Citation
 
 > [Selvam-DG], *"VisionPrep – Intelligent Image Preprocessing for Photogrammetry"*, 2025.
-> GitHub Repository: [github.com/Selvam-DG/VisionPrep-Image-Preprocessing](https://github.com/Selvam-DG/VisionPrep-Image-Preprocessing)
+> GitHub Repository: [photogrammetry-image-preprocessing]https://github.com/Selvam-DG/photogrammetry-image-preprocessing)
 
 ---
 
